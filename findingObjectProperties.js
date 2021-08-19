@@ -1,4 +1,5 @@
 // Try array and object values access
+// To Know more about it check first-chapter (09) page(76)
 
 const arrObj = [
     "mark",
