@@ -61,3 +61,4 @@ const arrObj = [
 
 
 console.log(arrObj[1].friends[1].friendsNames[0].myFriends.arrayNames[1].newObj.arrayInObj[0].nesObg.okayObj.needMore[1].moreNesObj.moreArr[0].boring[1].fail.ifNot.lastArr[1].oneMoreStep.lastObj.myFunc(5,6,100,650));
+
