@@ -12,3 +12,9 @@ console.log(global());
 
 
 
+names = "Hello" // Automatic global variable "use strict" mode e kaj korbe na....r eita good practice na
+function hello () {
+    console.log(names);
+}
+
+console.log(hello());
