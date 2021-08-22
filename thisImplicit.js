@@ -1,7 +1,7 @@
 // Implicit binding
 
-// 3: This keyword. ei this keyword ta cofusing and eitakei valo bhabe bujhaise....
-// 3.1: Implicit binding => Ei roll ta follow korte hbe...like: kono function jokhon call kora hbe amdr jeta dekhte hbe sheta holo oi function ta koto number line e call kora ache & dekhte hbe j oi function er left e kono dot notation ache kina ( . ) jodi thake then oi dot notation ( . ) er left e jeta thakbe oi takei actually THIS bujhano hoyeche...niche kichu example dewa holo.
+// This keyword. ei this keyword ta cofusing and eitakei valo bhabe bujhaise....
+// Implicit binding => Ei roll ta follow korte hbe...like: kono function jokhon call kora hbe amdr jeta dekhte hbe sheta holo oi function ta koto number line e call kora ache & dekhte hbe j oi function er left e kono dot notation ache kina ( . ) jodi thake then oi dot notation ( . ) er left e jeta thakbe oi takei actually THIS bujhano hoyeche...niche kichu example dewa holo.
 
 
 
